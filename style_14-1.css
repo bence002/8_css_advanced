@@ -1,0 +1,13 @@
+body {
+    font-family: Lato;
+    font-size: 24px;
+    color: #4a4a4a;
+}
+
+.url:hover {
+    color: #bd10e0;
+}
+
+.button:hover {
+    color: #bd10e0;
+}
