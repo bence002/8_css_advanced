@@ -1,5 +1,9 @@
 body {
-    font-size: 3em;
+    font-size: 40px;
+}
+
+.fas {
+    transition: .2s;
 }
 
 .fa-broom {
@@ -19,6 +23,7 @@ body {
 }
 
 .fas:hover {
-    opacity: 70%;
-    transition: .2s;
+    opacity: 60%;
+    font-size: 42px;
+    display: inline-block;
 }
