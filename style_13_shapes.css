@@ -17,3 +17,8 @@ body {
 .fa-ghost {
     color: #ffb6c1;
 }
+
+.fas:hover {
+    opacity: 70%;
+    transition: .2s;
+}
