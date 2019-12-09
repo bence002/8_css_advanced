@@ -1,0 +1,10 @@
+div {
+    background-image: url(https://raw.githubusercontent.com/hubudibu/materials/master/FRONTEND/CSS_advanced/assets/duck.jpg);
+    border: solid 50px #f2f2f2;
+    /* padding: 88px 75px; */
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    background-position: center;
+    background-size: 350px;
+}
