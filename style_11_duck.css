@@ -1,3 +1,5 @@
 div {
-    background-image: url(https://www.marylandzoo.org/wp-content/uploads/2017/11/woodduck2-1024x683.jpg);
+    background-image: url(https://raw.githubusercontent.com/hubudibu/materials/master/FRONTEND/CSS_advanced/assets/duck.jpg);
+    width: 300px;
+    height: 300px;
 }
