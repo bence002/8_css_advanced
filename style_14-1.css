@@ -4,10 +4,22 @@ body {
     color: #4a4a4a;
 }
 
+.url {
+    transition: .2s;
+}
+
 .url:hover {
     color: #bd10e0;
 }
 
+.button {
+    background-color: #4a90e2;
+    padding: 14px 23px;
+    color: white;
+    text-decoration: none;
+    transition: .2s;
+}
+
 .button:hover {
-    color: #bd10e0;
+    background-color: #bd10e0;
 }
